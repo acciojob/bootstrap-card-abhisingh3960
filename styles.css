@@ -1,2 +1,37 @@
 
 /* Your CSS Code here. */
+body{
+	box-sizing:border-box;
+}
+.card1{
+	width:100%;
+	height:155px;
+	background-color:lightgray;
+	border:1px solid lightgray;
+	border-radius:3px;
+	padding-left:10px;
+}
+header{
+	display:flex;
+	border:1px solid darkgray;
+	padding-left:20px;
+	margin-left:0px;
+	
+}
+a{
+	text-decoration:none;
+	color:black;	
+}
+button{
+	border-radius:5px;
+	background-color:blue;
+	color:white;
+	height:35px;
+}
+.card2{
+	margin-top:5px;
+	background-color:red;
+	color:white;
+	padding-left:10px;
+	width:30%;
+}
